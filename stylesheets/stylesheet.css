@@ -58,7 +58,9 @@ a {
   color: #000;/*changed the color*/
   text-align: center;
   background-color: #f90;
-  background-image: url(https://albertmoyerjr.files.wordpress.com/2013/05/189_1bacon_cheese_burger.jpg);
+  background-image: url(https://usatftw.files.wordpress.com/2016/02/screen-shot-2016-02-03-at-4-39-04-pm.jpg?w=1000&h=600&crop=1);
+  background:no-repeat;
+  
    }
 /*edited the background image*/  
 @media screen and (min-width: 64em) {
@@ -69,7 +71,7 @@ a {
   .page-header {
     padding: 3rem 4rem; } }
 
-@media screen and (max-width: 42em) {
+@media screen and (max-width: 42em) {bac
   .page-header {
     padding: 2rem 1rem; } }
 
