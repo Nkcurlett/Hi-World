@@ -1143,10 +1143,13 @@ img {
 .img-circle {
   border-radius: 50%;
 }
+/*changed color and width*/
 hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
+  height: 2px;
+  background-color: #009;
   border-top: 1px solid #eee;
 }
 .sr-only {
