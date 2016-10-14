@@ -9,6 +9,16 @@ body {
   line-height: 1.5;
   color: #ccddee; }
 
+/*changed color and width*/
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  height: 2px;
+  background-color: #009;
+  border-top: 1px solid #eee;
+}
+
 a {
   color: #1e6bb8;
   text-decoration: none; }
