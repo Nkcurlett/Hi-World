@@ -60,8 +60,7 @@ a {
   background-color: #009;
   background-image: url(../g5.jpg);
   background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  background-size: contain;
    }
 /*edited the background image*/  
 @media screen and (min-width: 64em) {
