@@ -73,7 +73,7 @@ a {
     background-color: #009;
 }
 
-.navbar-inverse .navbar-nav > li >a{
+.navbar-inverse .navbar-fixed-top > li >a{
     color: #009;
 }
 
