@@ -63,8 +63,8 @@ a {
 .page-header {
 
   text-align: center;
-  background-color: #f00;
-  background-image: url(images/g5.jpg);
+
+  background-image: url(g5.jpg);
   background-repeat: no-repeat;
   background-size: cover;
    }
