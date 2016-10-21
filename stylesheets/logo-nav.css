@@ -12,6 +12,14 @@ body {
     padding: 15px 0;
 }
 
+.navbar-inverse navbar-nav{
+    background-color: #009;
+}
+
+.navbar-inverse navbar-nav > li >a{
+    color: #009;
+}
+
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
 }
