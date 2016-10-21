@@ -68,6 +68,15 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
    }
+
+.navbar-inverse{
+    background-color: #009;
+}
+
+.navbar-inverse .navbar-nav > li >a{
+    color: #009;
+}
+
 /*edited the background image*/  
 @media screen and (min-width: 64em) {
   .page-header {
